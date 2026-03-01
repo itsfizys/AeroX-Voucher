@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/kZ8IEWl.gif" alt="AeroX Voucher Banner" width="200" />
   <h1>🚀 AeroX Voucher</h1>
   <p><strong>A Next-Generation, High-Performance Vouch and Reputation System for Discord.</strong></p>
   
